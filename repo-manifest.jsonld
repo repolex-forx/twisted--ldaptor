@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/twisted/ldaptor/commit/c3eaca5cdf1038a833743aed1ba86b55b4ee8c58",
       "git:hexsha": "c3eaca5cdf1038a833743aed1ba86b55b4ee8c58",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/twisted/ldaptor/commit/7e249b1586789a5c588f662ce74ee9f4338666e0",
