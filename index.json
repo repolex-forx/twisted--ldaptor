@@ -1,0 +1,11 @@
+{
+  "org": "twisted",
+  "repo": "ldaptor",
+  "versions": [
+    {
+      "commit": "c3eaca5cdf1038a833743aed1ba86b55b4ee8c58",
+      "tag": "",
+      "parsed_at": "2026-10-12T03:16:28.727908+00:00"
+    }
+  ]
+}
